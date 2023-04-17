@@ -17,4 +17,5 @@ public class EnderecoDTO {
     private boolean principal;
     private PessoaDTO pessoa;
 
+
 }

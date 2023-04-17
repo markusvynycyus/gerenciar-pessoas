@@ -7,6 +7,7 @@ import lombok.*;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 
@@ -21,6 +22,7 @@ public class Pessoa {
 
     @Column(nullable = false)
     private String nome;
+
 
     private LocalDate dataNascimento;
 

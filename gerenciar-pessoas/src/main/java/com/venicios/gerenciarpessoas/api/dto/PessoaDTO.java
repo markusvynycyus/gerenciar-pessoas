@@ -14,6 +14,6 @@ public class PessoaDTO {
     private Long id;
     private String nome;
     private LocalDate dataNascimento;
-//    private List<EnderecoDTO> enderecos;
+
 
 }
